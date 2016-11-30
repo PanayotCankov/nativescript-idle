@@ -1,0 +1,24 @@
+{
+  "name": "nativescript-idle",
+  "version": "1.0.0",
+  "description": "Schedule callback to be called when the application is idle",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanayotCankov/nativescript-idle.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PanayotCankov/nativescript-idle/issues"
+  },
+  "homepage": "https://github.com/PanayotCankov/nativescript-idle#readme",
+  "devDependencies": {
+    "tns-core-modules": "^2.4.0",
+    "tns-platform-declarations": "^2.4.0",
+    "typescript": "^2.0.10"
+  }
+}
